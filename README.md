@@ -4,6 +4,7 @@ The application is designed to run directly in a Jupyter Notebook hosted on **Go
 
 ## How it works
 - The main workflow is implemented in a Colab notebook (`hierarchical_classifier_colab.ipynb`).
+    - in the link https://colab.research.google.com/drive/1PPU1BBlZMfFZnpr1beYSUjlNvePoTSSc?usp=sharing
 - Users can open the notebook in Google Colab and execute the cells step by step.
 - No local installation is required; everything runs in the cloud.
 
@@ -18,3 +19,4 @@ The application is designed to run directly in a Jupyter Notebook hosted on **Go
 ## Notes
 - This repository is intended for educational and research purposes.
 - Contributions and improvements are welcome.
+
